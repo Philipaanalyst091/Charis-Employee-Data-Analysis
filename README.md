@@ -26,14 +26,15 @@ Top 3 Races: Asian, Black, White
 RECOMMENDATIONS:
 
 Performance Recognition: Implement reward programs for top performers to boost morale and motivation.
+
 Targeted Training: Provide skills training for employees underperforming or on PIPs, focusing on practical skills development.
+
 Diversity & Inclusion:
-Recruit diverse talent.
-Ensure equitable workplace policies.
-Foster an inclusive work environment.
+Recruit diverse talent.Ensure equitable workplace policies. Foster an inclusive work environment.
+
 Reduce Employee Turnover:
-Offer flexible work arrangements and wellness programs.
-Cultivate a positive and supportive work culture.
+Offer flexible work arrangements and wellness programs. Cultivate a positive and supportive work culture.
+
 Profit-Sharing: Introduce profit-sharing programs to align employee interests with company goals.
 
 This analysis provides valuable insights to optimize employee management and drive organizational success at Charis Store.
